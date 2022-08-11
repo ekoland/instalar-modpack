@@ -4,7 +4,7 @@
 
 ⚠ | **ACLARACIÓN:** El tutorial se hará desde un cliente No Premium (TLauncher) para que la explicación sea más fácil de entender. Ten en cuenta que las funciones de este launcher son casi similares a las de otros.
 
- Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow">Click Aquí</a>
+ Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow" target="_blank">Click Aquí</a>
 <hr>
 
  **1. Instalar la versión 1.19.2 (Vanilla)**
@@ -19,7 +19,7 @@
 
  Minecraft Forge es una modificación del launcher de Minecraft que permite la instalación más cómoda y segura de modificaciones (MODS) dentro del juego.
 
- Bueno, luego de la aclaración continuamos, necesitaremos ir la página oficial de Forge <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html" rel="nofollow">Click Aquí</a> y buscar la versión 1.19.2 de este, presionamos en `Show all versions` y seleccionamos la versión (1.19.2 - 43.0.70) en formato `Installer`.
+ Bueno, luego de la aclaración continuamos, necesitaremos ir la página oficial de Forge <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html" rel="nofollow" target="_blank">Click Aquí</a> y buscar la versión 1.19.2 de este, presionamos en `Show all versions` y seleccionamos la versión (1.19.2 - 43.0.70) en formato `Installer`.
  
 **3. Instalar Forge 1.19.2**
 
@@ -27,7 +27,7 @@
  
 **4. Descargar los mods**
 
- Procediendo con todo, necesitaremos descargar los mods <a href="https://drive.google.com/u/0/uc?id=1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P&export=download" rel="nofollow">Click Aquí</a>. El link hará la descarga automaticamente. Si tienes problemas con ese enlance intenta con <a href="https://drive.google.com/file/d/1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P/view?usp=sharing" rel="nofollow">este</a>.
+ Procediendo con todo, necesitaremos descargar los mods <a href="https://drive.google.com/u/0/uc?id=1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P&export=download" target="_blank" rel="nofollow">Click Aquí</a>. El link hará la descarga automaticamente. Si tienes problemas con ese enlance intenta con <a href="https://drive.google.com/file/d/1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P/view?usp=sharing" target="_blank" rel="nofollow">este</a>.
  
 **5. Instalar los mods y jugar.**
 
@@ -49,19 +49,19 @@
  
  Probablemente tengas poca memoria asignada a Minecraft y como es un ModPack pesado por la cantidad de mods no es posible de ejecutar.
  
-> **Tutorial de cómo asignarle más RAM a tu Minecraft:** <a href="https://youtu.be/qFpITQIn4e4?t=43" rel="nofollow">Click Aquí</a> *Gracias a `Sorac` por el video*
+> **Tutorial de cómo asignarle más RAM a tu Minecraft:** <a href="https://youtu.be/qFpITQIn4e4?t=43" rel="nofollow" target="_blank">Click Aquí</a> *Gracias a `Sorac` por el video*
  
  **2. Crash al abrir el Juego (Más común)**
  
  Esto se puede deber a demasiadas cosas, pero generalmente es porque no seguiste uno de los pasos anteriormente explicados y el juego no tiene forma de ejecutarse.
  Si seguiste todos los pasos y aún es persistente el error puedes borrar tu `.minecraft` o renombrarla y crear una nueva siguiendo los pasos anteriormente explicados.
  
-> Hay más errores pero estos son los más mencionados en nuestro <a href="https://discord.gg/XAxH9Q7Jby" rel="nofollow">Discord</a> en el cúal igualmente puedes obtener soporte con un error que no es mencionado acá de parte del Staff o comunidad :).
+> Hay más errores pero estos son los más mencionados en nuestro <a href="https://discord.gg/XAxH9Q7Jby" target="_blank" rel="nofollow">Discord</a> en el cúal igualmente puedes obtener soporte con un error que no es mencionado acá de parte del Staff o comunidad :).
 
 ⚠ Si encuentras algún error no dudes en contactarme mediante discord **Sorac#9121** o mi correo **sorac.contacto@gmail.com**
 
 **FIN.**
 
-By <a href="https://www.twitch.tv/elsorac_" rel="nofollow">Sorac</a>. ❤
+By <a href="https://www.twitch.tv/elsorac_" target="_blank" rel="nofollow">Sorac</a>. ❤
 
 
