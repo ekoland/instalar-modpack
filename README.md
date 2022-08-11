@@ -58,7 +58,9 @@
  
 > Hay más errores pero estos son los más mencionados en nuestro <a href="https://discord.sevencraft.org" rel="nofollow">Discord</a> en el cúal igualmente puedes obtener soporte con un error que no es mencionado acá de parte del Staff o comunidad :).
 
-
+⚠ Si encuentras algun error no dudes en contactarme mediante discord Sorac#9121
 **FIN.**
 
 By <a href="https://www.twitch.tv/elsorac_" rel="nofollow">Sorac</a>. ❤
+
+
