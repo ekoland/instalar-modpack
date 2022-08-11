@@ -61,4 +61,4 @@
 
 **FIN.**
 
-By <a href="https://www.twitch.tv/elsorac_" rel="nofollow">Sorac</a>. ❤ (Esta guía no es 100% hecha por mi, si no por a href="https://github.com/Belceebuh" rel="nofollow">Belcebú</a>)
+By <a href="https://www.twitch.tv/elsorac_" rel="nofollow">Sorac</a>. ❤
