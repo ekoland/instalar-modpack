@@ -27,7 +27,7 @@
  
 **4. Descargar los mods**
 
- Procediendo con todo, necesitaremos descargar los mods <a href="https://drive.google.com/u/0/uc?id=1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P&export=download" target="_blank" rel="nofollow">Click Aquí</a>. El link hará la descarga automaticamente. Si tienes problemas con ese enlance intenta con <a href="https://drive.google.com/file/d/1UOmRqLDEjUPaIa1HG0dCXCzMRISQLM2P/view?usp=sharing" target="_blank" rel="nofollow">este</a>.
+ Procediendo con todo, necesitaremos descargar los mods <a href="https://drive.google.com/u/0/uc?id=1XdVgY-aJProoVdoIYGnX4hxRzfFhKIwA&export=download" target="_blank" rel="nofollow">Click Aquí</a>. El link hará la descarga automaticamente. Si tienes problemas con ese enlance intenta con <a href="https://drive.google.com/file/d/1XdVgY-aJProoVdoIYGnX4hxRzfFhKIwA/view?usp=sharing" target="_blank" rel="nofollow">este</a>.
  
 **5. Instalar los mods y jugar.**
 
