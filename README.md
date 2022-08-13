@@ -61,7 +61,7 @@
  
 > Hay más errores pero estos son los más mencionados en nuestro <a href="https://discord.gg/XAxH9Q7Jby" target="_blank" rel="nofollow">Discord</a> en el cúal igualmente puedes obtener soporte con un error que no es mencionado acá de parte del Staff o comunidad :).
 
-⚠ twitch.tv/ekowiw !Unete a nuestra comunidad¡
+⚠ https://twitch.tv/ekowow !Unete a nuestra comunidad¡
 
 **FIN.**
 
