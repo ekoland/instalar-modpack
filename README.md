@@ -62,6 +62,4 @@
 
 **FIN.**
 
-By <a href="https://www.twitch.tv/elsorac_" target="_blank" rel="nofollow">Sorac</a>. ❤
-
 
