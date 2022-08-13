@@ -1,4 +1,4 @@
- Instalación de ModPack para EkoLand (1.19.2) | ⭐
+ Instalación de ModPack para EkoLand (1.18.2) | ⭐
 --
  **Esta es una guía hecha para que puedas guiarte de forma correcta al momento de instalar el ModPack o para ver posibles soluciones si tienes algún inconveniente.**
 
@@ -10,11 +10,11 @@
  Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow" target="_blank">Click Aquí</a>
 <hr>
 
- **1. Instalar la versión 1.19.2 (Vanilla)**
+ **1. Instalar la versión 1.18.2 (Vanilla)**
 
  Primeramente necesitamos instalar la versión base (Vanilla) de Minecraft en la versión 1.19.2 desde el launcher que uses (TLauncher, Minecraft Launcher (Premium), LauncherFenix etc).
  
-**2. Descargar Forge 1.19.2**
+**2. Descargar Forge 1.18.2**
 
  Cómo segundo paso necesitaremos descargar Forge y por si te lo preguntas...
 
@@ -22,9 +22,9 @@
 
  Minecraft Forge es una modificación del launcher de Minecraft que permite la instalación más cómoda y segura de modificaciones (MODS) dentro del juego.
 
- Bueno, luego de la aclaración continuamos, necesitaremos ir la página oficial de Forge <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html" rel="nofollow" target="_blank">Click Aquí</a> y buscar la versión 1.19.2 de este, presionamos en `Show all versions` y seleccionamos la versión (1.19.2 - 43.0.70) en formato `Installer`.
+ Bueno, luego de la aclaración continuamos, necesitaremos ir la página oficial de Forge <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html" rel="nofollow" target="_blank">Click Aquí</a> y buscar la versión 1.18.2 de este, presionamos en `Show all versions` y seleccionamos la versión (1.18.2 - 40.1.73) en formato `Installer`.
  
-**3. Instalar Forge 1.19.2**
+**3. Instalar Forge 1.18.2**
 
  Luego de descargar Forge procedemos a instalarlo mismamente, damos doble click al archivo que descargamos y se nos abrira un menú en el cuál únicamente debemos tener marcada la opción de `Install Client` y luego procedemos a darle en `Aceptar`. Tan solo nos queda esperar a que Forge termine de instalar. Pasado unos minutos tendremos una nueva ventana la cuál nos alerta que tenemos ya Forge instalado correctamente.
  
