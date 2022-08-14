@@ -33,6 +33,10 @@
 
  Procediendo con todo, necesitaremos descargar los mods <a href="https://drive.google.com/u/0/uc?id=1T3Vqvid8xFWjh_3hJ4bJ0djq3IaZaS9G&export=download" target="_blank" rel="nofollow">Click Aquí</a>. El link hará la descarga automaticamente. Si tienes problemas con ese enlance intenta con <a href="https://drive.google.com/file/d/1T3Vqvid8xFWjh_3hJ4bJ0djq3IaZaS9G/view?usp=sharing" target="_blank" rel="nofollow">este</a>.
  
+ **Esto son los ultimos MODS añadidos, descarguenlos y pongalos.**
+ https://drive.google.com/file/d/1L-b--qzKbEJvDITYrbqGYeCA3zd9SYH-/view?usp=sharing
+ 
+ 
 **5. Instalar los mods y jugar.**
 
  Y para finalizar con todo esto y ya dejar de escribir esto, necesitamos claramente instalar lo que descargamos, en este caso los mods. Tendremos que dirigirnos a nuestro `.minecraft` que es la carpeta donde están todos los datos de Minecraft.
