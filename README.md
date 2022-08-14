@@ -64,4 +64,9 @@
 
 ⚠ https://twitch.tv/ekowow !Unete a nuestra comunidad¡
 
+**Si deseas poner texturas al minecraft, descarga las texturas que usara Ek0 en su directo!**
+Descargalas aqui https://drive.google.com/file/d/1edfcn-L0BpFZZOd0msLic-1Vo016DuzC/view?usp=sharing
+- Para instalar llevas ese archivo a la carpeta .minecraft y en la carpeta llamada resourcepack extraes ese zip y te dejara las dos texturas.
+- Abriras el minecraft, entras a opciones y le das a pack de texturas luego las pones, recuerda que las texturas de zombie deben de estar encima de todo.
+
 **FIN.**
