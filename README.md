@@ -65,5 +65,3 @@
 ⚠ https://twitch.tv/ekowow !Unete a nuestra comunidad¡
 
 **FIN.**
-
-
