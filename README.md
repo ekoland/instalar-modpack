@@ -7,7 +7,7 @@
 🚩 REQUISITOS IMPROTANTE
 - Tener el Java instalado en tu ordenador. 
 
- Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow" target="_blank">Click Aquí</a>
+ Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow" target="_blank">Click Aquí</a> **(En el video dira la 1.19.2 pero es la 1.18.2 ❤)**
 <hr>
 
  **1. Instalar la versión 1.18.2 (Vanilla)**
