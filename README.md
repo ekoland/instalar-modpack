@@ -5,7 +5,8 @@
 ⚠ | **ACLARACIÓN:** El tutorial se hará desde un cliente No Premium (TLauncher) para que la explicación sea más fácil de entender. Ten en cuenta que las funciones de este launcher son casi similares a las de otros.
 
 🚩 REQUISITOS IMPROTANTE
-- Tener el Java instalado en tu ordenador. 
+- **Tener el Java instalado en tu ordenador. **
+- **Al menos ponerle 4GB de ram a tu cliente Minecraft por minimo 3GB. **
 
  Tutorial en video explicativo de instalación: <a href="https://www.youtube.com/watch?v=qFpITQIn4e4" rel="nofollow" target="_blank">Click Aquí</a> **(En el video dira la 1.19.2 pero es la 1.18.2 ❤)**
 <hr>
