@@ -1,5 +1,7 @@
  Instalación de ModPack para EkoLand (1.18.2) | ⭐
 --
+**IP DEL SERVIDOR:** ekoland.life
+
  **Esta es una guía hecha para que puedas guiarte de forma correcta al momento de instalar el ModPack o para ver posibles soluciones si tienes algún inconveniente.**
 
 ⚠ | **ACLARACIÓN:** El tutorial se hará desde un cliente No Premium (TLauncher) para que la explicación sea más fácil de entender. Ten en cuenta que las funciones de este launcher son casi similares a las de otros.
